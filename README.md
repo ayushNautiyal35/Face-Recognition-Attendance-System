@@ -7,4 +7,4 @@ Code Requirements:
 3. Make a folder of photos of nown faces.
 
 
-Please go through info info for full working and results.
+Please go through info for full working and results.

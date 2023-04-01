@@ -5,3 +5,6 @@ Code Requirements:
 1. Install cmake,dlib,face_recognition.
 2. Make a csv file of name attendance.csv.
 3. Make a folder of photos of nown faces.
+
+
+Please overview info for full working
